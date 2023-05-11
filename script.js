@@ -15,3 +15,5 @@ function login()  {
     btnTag.style.left ="0";
 }
 
+// this is java script 
+/*I wanna be a programmar */
